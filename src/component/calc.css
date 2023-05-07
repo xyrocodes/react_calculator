@@ -1,0 +1,74 @@
+#root{
+    background: black;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 10px;
+}
+
+.myCalculator{
+    width: 315px;
+}
+
+.buttons{
+    display: inline-block;
+    margin: 23px 15px;
+}
+
+.btn{
+    background: #4d4e4e;
+    color: white;
+    padding: 5%;
+    border: 0px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    outline: none;
+}
+.btn:focus{
+    background: white;
+    color: #323232;
+ }
+
+.btn-calc{
+    background: #fd5c0b;
+  
+}
+.btn-action{
+    background: #ecf4f6;
+    color: #323232;
+}
+
+.btn-0{
+    background: #434242;
+    color: rgb(247, 255, 254);
+    border: 0px;
+    margin: 5px;
+    padding: 5%;
+    width: 130px;
+    border-radius: 30px;
+    height: 60px;
+    font-size: 25px;
+    cursor: pointer;
+    outline: none;
+}
+.btn-0:focus{
+    background: rgb(255, 255, 255);
+    color: #323232;
+}
+.result{
+    width: 100%;
+    height: 62px;
+    margin-top: 30px;
+    background: #6d6d6fe0;
+}   
+
+.result p{
+    text-align: right;
+    font-size: 26px;
+    margin-bottom: 4px;
+    padding-top: 14px;
+    padding-right: 10px;
+}
