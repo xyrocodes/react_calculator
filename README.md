@@ -1,4 +1,4 @@
-# [Calculator](https://xyrocodes.github.io/react_calculator/)
+## [Calculator](https://xyrocodes.github.io/react_calculator/)
 
 # Getting Started with Create React App
 
